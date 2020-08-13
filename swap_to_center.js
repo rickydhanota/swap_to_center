@@ -6,5 +6,5 @@ function swap_to_center(arr){
     }
     return arr;
 }
-var y=swap_to_center([1,2,3,4, 5, 6])
+var y=swap_to_center([3,4,1,7,5,8])
 console.log(y);
